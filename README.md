@@ -1,6 +1,9 @@
 ﻿# LivBeatSaberSynchronizer
 An incredibly basic LIV camera plugin that synchronizes successful Beat Saber note cuts with emission and rim light color changes on VRM avatars' materials using the VRM/MToon shader.
 
+## Example
+https://user-images.githubusercontent.com/85083151/120126550-40ae3500-c182-11eb-8b5c-1d43c8ba2873.mp4
+
 ## Installation
 
 ### Dependencies
